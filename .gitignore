@@ -119,3 +119,5 @@ Session.vim
 tags
 .idea/
 data/
+logs/
+core
